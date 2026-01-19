@@ -24,3 +24,13 @@ main#principal li {
     margin: 0 30px;
 }
 
+div#menu li:hover {
+    text-decoration: underline;
+}
+
+div#boas-vindas {
+    margin-top: 60px;
+    text-align: center;
+}
+
+
