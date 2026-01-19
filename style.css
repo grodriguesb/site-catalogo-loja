@@ -24,6 +24,11 @@ main#principal li {
     margin: 0 30px;
 }
 
+div#menu a {
+    text-decoration: none;
+    color: #363636;
+}
+
 div#menu li:hover {
     text-decoration: underline;
 }
@@ -33,4 +38,8 @@ div#boas-vindas {
     text-align: center;
 }
 
+div#produtos {
+    text-align: center;
+    margin-top: 60px;
+}
 
