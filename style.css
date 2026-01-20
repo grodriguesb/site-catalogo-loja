@@ -89,3 +89,7 @@ h2#info {
     color: white;
     margin: 1px;
 }
+
+.social a:hover {
+    text-decoration: underline;
+}
