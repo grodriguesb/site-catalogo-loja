@@ -38,8 +38,24 @@ div#boas-vindas {
     text-align: center;
 }
 
+div#boas-vindas p {
+  font-family: "Cause", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
 div#produtos {
     text-align: center;
     margin-top: 60px;
+    padding: 0px 200px;
 }
 
+.item p {
+    margin: 2px;
+}
+
+.item {
+    display: block;
+    display: inline-block;
+    margin: 50px;
+}
