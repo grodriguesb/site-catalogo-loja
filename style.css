@@ -59,3 +59,22 @@ div#produtos {
     display: inline-block;
     margin: 50px;
 }
+
+.item img {
+    border-radius: 5px;
+}
+
+footer#rodape {
+    font-family: "Cause", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-color: #363636;
+    text-align: center;
+    color: white;
+    font-size: 10pt;
+    padding: 10px 0px;
+}
+
+footer#rodape h2 {
+    margin: 5px 0px 0px 0px;
+}
