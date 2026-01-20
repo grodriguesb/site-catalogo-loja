@@ -82,5 +82,10 @@ h2#info {
 .social {
     display: inline-block;
     margin: 0px 40px;
-    
+}
+
+.social a {
+    text-decoration: none;
+    color: white;
+    margin: 1px;
 }
